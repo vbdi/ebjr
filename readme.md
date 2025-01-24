@@ -1,6 +1,8 @@
 # EBJR: Energy-Based Joint Reasoning for Adaptive Inference (BMVC2021)
 ##### This notebook contains the implmenetation of the paper ['EBJR: Energy-Based Joint Reasoning for Adaptive Inference'](https://www.bmvc2021-virtualconference.com/assets/papers/0502.pdf) published in BMVC2021.
 
+Link to paper on arXiv: https://arxiv.org/abs/2110.10343
+
 ![](https://user-images.githubusercontent.com/38634796/143724800-915267db-4472-4a7f-90f6-a54be489ced1.png)
 
 ## Introduction
