@@ -1,7 +1,7 @@
 # EBJR: Energy-Based Joint Reasoning for Adaptive Inference (BMVC2021)
 ##### This notebook contains the implmenetation of the paper ['EBJR: Energy-Based Joint Reasoning for Adaptive Inference'](https://www.bmvc2021-virtualconference.com/assets/papers/0502.pdf) published in BMVC2021.
 
-![](https://modelarts-cnnorth1-market-dataset.obs.cn-north-1.myhuaweicloud.com/example-apps/ebjr/images/ebjr_framework.png)
+![](https://user-images.githubusercontent.com/38634796/143724800-915267db-4472-4a7f-90f6-a54be489ced1.png)
 
 ## Introduction
 ##### - Smaller (shallower) models -> lower prediction accuracy, but faster
@@ -115,16 +115,16 @@
 ##### - Average of ~2X less FLOPs compared to Teacher
 ##### - Average of ~1.5X less latency compared to Teacher
 
-![](https://modelarts-cnnorth1-market-dataset.obs.cn-north-1.myhuaweicloud.com/example-apps/ebjr/images/table.png)
+![](https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/ebjr/table.png)
 
 #### Trade-off curves compared with SOTA
 
-![](https://modelarts-cnnorth1-market-dataset.obs.cn-north-1.myhuaweicloud.com/example-apps/ebjr/images/ic-curves.png)
+![](https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/ebjr/ic-curves.png)
 
 ### Object Detection
 ##### With EfficientDet-D0 (as Student) and EfficientDet-D4 (as Teacher) 
 
-![](https://modelarts-cnnorth1-market-dataset.obs.cn-north-1.myhuaweicloud.com/example-apps/ebjr/images/od.png)
+![](https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/ebjr/od.png)
 
 ## Specialized EBJR
 #####  - Assumption: majority of data (e.g., 70%) belongs to a small subset of popular classes 
@@ -142,14 +142,6 @@
 </video>
 ```
 
-
 <video width="1280" controls>
     <source src="https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/ebjr/Demo.mp4" type="video/mp4">
 </video>
-
-
-
-
-```python
-
-```
