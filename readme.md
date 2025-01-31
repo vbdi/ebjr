@@ -3,6 +3,8 @@
 
 Link to paper on arXiv: https://arxiv.org/abs/2110.10343
 
+Link to Huawei's AI Gallery Notebook: [https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=7c9eb8ea-4aee-4616-9a70-85d186e51962)
+
 ![](https://user-images.githubusercontent.com/38634796/143724800-915267db-4472-4a7f-90f6-a54be489ced1.png)
 
 ## Introduction
